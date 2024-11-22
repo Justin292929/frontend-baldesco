@@ -8,7 +8,7 @@ function Hobbies() {
         padding: '50px',
         fontFamily: 'Arial, sans-serif',
         textAlign: 'center',
-        backgroundColor: '#ecf0f1 ',
+        backgroundColor: '#CD5C5C ',
       }}
     >
       <h2 style={{ fontSize: '2rem', color: '#5754ff', marginBottom: '30px' }}>Hobbies</h2>
@@ -85,7 +85,7 @@ function Hobbies() {
           {/* Billiard */}
           <div>
             <img
-              src="src\assets\image\Billiard.jpg"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462576148_563713316357643_6525810523242799472_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=isnatxEh2IwQ7kNvgEOiXWd&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QGIYNwMAZZ8ylqjy_LfuhUGdeozP0r81_mttSoem5LY9A&oe=6767D395"
               alt="Billiard"
               style={{
                 width: '150px',
