@@ -2,7 +2,7 @@ import React from 'react';
 
 function Abouts() {
   return (
-    <div id="abouts" style={{ padding: '150px', backgroundColor: '#5D6D7E' }}>
+    <div id="abouts" style={{ padding: '150px', backgroundColor: '#5d6d7e' }}>
       
       {/* Centered Round Photo */}
       <div
@@ -14,7 +14,7 @@ function Abouts() {
         }}
       >
         <img
-          src="src\assets\image\awqwe.jpg"
+          src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462576001_2365830527099190_5294032479582487362_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Pi94fKE6fQQQ7kNvgEgZDEt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QGU3-hKuojXxWeCi-5a2OLbNxJgAwm1qMR40hDLCRWF9Q&oe=6767D36D"
           alt="Profile"
           style={{
             width: '200px',
@@ -27,7 +27,7 @@ function Abouts() {
         />
         <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center' }}>About me</h2>
         <p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px' }}>
- "I'm Justin Michael A. Baldesco, a 22 year old student ."
+ "I'm Justin Michael A. Baldesco and "I am a blend of confidence, patience, and compassion ,trusting the journey, nurturing others along the way, and always moving forward toward the dreams that inspire my soul."."
 
         </p>
       </div>
@@ -43,7 +43,7 @@ function Abouts() {
       >
         <a href="https://www.instagram.com/justinbaldesco/" target="_blank" rel="noopener noreferrer">
           <img
-            src="src/assets/image/IG.webp"
+            src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462559016_2235166066862606_4211977890852282546_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=siaWSIhpBhQQ7kNvgGmzgIp&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEAuftWHF9ctfCCkyeAskSXWQjEYwuUhSTzi7QXLcChhQ&oe=6767C47E"
             alt="Small Profile"
             style={{
               width: '50px',
