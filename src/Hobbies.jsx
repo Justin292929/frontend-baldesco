@@ -28,7 +28,7 @@ function Hobbies() {
           {/* Cats */}
           <div>
             <img
-              src="src\assets\image\icuz.jpg"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/467459741_456521437476396_7903461641813707664_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RRRL4clBDRkQ7kNvgEYEX_H&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHT1HOTuXV15MyzA7xzVLCvf2Y2_55MHkMfvyFAcf5PXA&oe=6767F196"
               alt="Cats"
               style={{
                 width: '100px',
@@ -43,7 +43,7 @@ function Hobbies() {
           {/* Dogs */}
           <div>
             <img
-              src="src\assets\image\madawg.jpg"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/467471277_372967492505052_6369173146635622872_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ZXklGpdyc0YQ7kNvgHRmclP&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QFJQ-Q1BUdscpAwQDYxDDpoGFBNcGyipYwFEZrTc--r8A&oe=6767D1DB"
               alt="Dogs"
               style={{
                 width: '100px',
@@ -70,7 +70,7 @@ function Hobbies() {
           {/* Running */}
           <div>
             <img
-              src="src\assets\image\runner.jpg"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/467459715_1223905132175094_3117221240815176877_n.jpg?stp=dst-jpg_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=28rJn2YOPWAQ7kNvgEbBZwE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QGz3wLHHyMK6Wb7E6jqkRSZCM0Wtg2RwY2Ovp5ywqKYjQ&oe=6767BD76"
               alt="Running"
               style={{
                 width: '150px',
@@ -111,7 +111,7 @@ function Hobbies() {
           {/* Game 1 */}
           <div>
             <img
-              src="src\assets\image\Dota-2-Logo.png"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/359871232_3672042806396878_2820080233853093643_n.png?stp=dst-png_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=_bBG5IAY684Q7kNvgFxsstP&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHVGct4nKYzMajRHJTRMMOjcOdeJqd_CCVepuiQlGU9Rw&oe=6767DCE1"
               alt="Game 1"
               style={{
                 width: '100px',
@@ -126,7 +126,7 @@ function Hobbies() {
           {/* Game 2 */}
           <div>
             <img
-              src="src\assets\image\saasd.png"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462565058_1989776024869707_5256762385625102762_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=7RF8epQGS3IQ7kNvgEdql15&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QGX1ROzhVzbcVZa4V4se8BPNx0hEwJ-SNDI_nFgg4wPdA&oe=6767C986"
               alt="Game 2"
               style={{
                 width: '100px',
@@ -141,7 +141,7 @@ function Hobbies() {
           {/* Game 3 */}
           <div>
             <img
-              src="src\assets\image\diablo2.png"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462553730_851712687172422_6895645632730937173_n.jpg?stp=dst-jpg_s480x480&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Nl6hmJveVFwQ7kNvgFbKwMq&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QG-GfmdNIgqETFAwKxHMpwuIeNuE7YtT9fdeC8mGCis3w&oe=6767C3D8"
               alt="Game 3"
               style={{
                 width: '100px',
@@ -156,7 +156,7 @@ function Hobbies() {
           {/* Game 4 */}
           <div>
             <img
-              src="src\assets\image\ches.jpg"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462545361_1091448762524787_6540027204689727380_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Yc3p31_c1oYQ7kNvgFgqwP9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QFM2JDOduV74PGHAKyx2EQSiA50NoYaGw9KcoxyhaU9RQ&oe=6767DD36"
               alt="Game 4"
               style={{
                 width: '100px',
@@ -171,7 +171,7 @@ function Hobbies() {
           {/* Game 5 */}
           <div>
             <img
-              src="src\assets\image\summertimesaga.png"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462568205_557769316843277_4870504945051507809_n.jpg?stp=dst-jpg_s480x480&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=rk_kO3gZ6Q0Q7kNvgGrI7Ur&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEp63D2jn0fq1Hpl1OoE6XY_ABAvhAafTNmL4iZTpzipQ&oe=6767EFF5"
               alt="Game 5"
               style={{
                 width: '100px',
