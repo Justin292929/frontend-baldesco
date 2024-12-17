@@ -2,7 +2,7 @@ import React from 'react';
 
 function Abouts() {
   return (
-    <div id="abouts" style={{ padding: '150px', backgroundColor: '#5d6d7e' }}>
+    <div id="abouts" style={{ padding: '150px', backgroundColor: '#CD5C5C' }}>
       
       {/* Centered Round Photo */}
       <div
